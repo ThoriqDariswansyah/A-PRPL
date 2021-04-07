@@ -1,3 +1,9 @@
 Nim: 1811500009
 Nama : Thoriq Dariswansyah
 Kelompok TI6A
+
+
+Hasil saya Rangkum:
+1) Ada tugas untuk merangkum tiap pertemuan dan ditaruh di github
+2) Perkenalan, tata tertib perkuliahan,dan kontrak Perkuliahan
+- mengikuti pembelajaran secara berurutan dan jangan di skip biar agar tidak ada informasi penting ketinggalan
